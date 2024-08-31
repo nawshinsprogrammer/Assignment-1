@@ -1,0 +1,44 @@
+body{ 
+    font-family: "Poppins", sans-serif};
+
+
+    .start{
+     width: (4/12px);
+     
+     /* justify-content: space-between; */
+    }
+    .start-1{
+     display: flex;
+     justify-content: space-between;
+     padding: 20px 45px;
+    }
+     
+    .start-1 p{
+     font-size: 25px;
+    }
+
+    .start-1 button{
+     padding: 5px 10px;
+    }
+    .span{
+     font-weight: bold;
+    }
+    .span-2{
+    background-color: rgb(153, 153, 233); 
+     /* padding: 5px 10px; */
+     border-radius:10px;
+    }
+    .span-2 p{
+     color:#000;
+    }
+
+    .part-1{
+     width: (5/12px);
+    }
+    .title h1{
+     font-weight: 900;
+     text-align: center;
+     padding: 40px 50px;
+    }
+
+   
