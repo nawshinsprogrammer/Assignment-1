@@ -32,13 +32,36 @@ body{
      color:#000;
     }
 
-    .part-1{
+    /* .part-1{
      width: (5/12px);
-    }
+    } */
     .title h1{
      font-weight: 900;
      text-align: center;
      padding: 40px 50px;
     }
+.profile-pic{
+    text-align: center;
+}
+.group{
+    background-image: url("assets/Hero-bg.png");
+   
+    text-align: center;
 
+
+}
+.group h1{
+    font-size: 40px;
+    font-weight: 1,100;
+}
+.group p{
+    font-size: 18px;
+    color: gray;
+}
+.btn{
+    padding: 12px 40px;
+    background-color: #211f1f;
+    color: white;
+    border-radius:15px ;
+}
    
