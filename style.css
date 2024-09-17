@@ -1,5 +1,5 @@
 body{ 
-    font-family: "Poppins", sans-serif};
+       .font-family: "Poppins", sans-serif};
 
 
     .start{
@@ -63,5 +63,57 @@ body{
     background-color: #211f1f;
     color: white;
     border-radius:15px ;
+    margin-bottom: 20px;
 }
+
+  .next-section{
+    width: (4/12px);
    
+    
+
+  }
+  .middle{
+    text-align: center;
+    margin-top: 60px;
+  }
+  .next-section-para{
+    font-size: 30px;
+    font-weight:bolder;
+  }
+  .child1 h3{
+    color:grey;
+  }
+  .parent-div{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    padding: 10px 30px;
+  }
+  .child1 para{
+  padding: 20px 40px;
+  }
+
+  .button{
+    padding: 10px 30px;
+    color:grey;
+  }
+  .parent-child2{
+    display: flex;
+    justify-content: space-evenly;
+  }
+   .fun{
+    padding: 10px 30px;
+    color: grey;
+   }
+   .parent-child2-para h3{
+        color: grey;
+    }
+    .text{
+        color: grey;
+    }
+    .parent-div3{
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 30px;
+    }
+      
