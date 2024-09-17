@@ -67,18 +67,22 @@ body{
 }
 
   .next-section{
-    width: (4/12px);
+  
+   width: 1380px;
+   background-color: rgb(209, 204, 204);
    
     
 
   }
   .middle{
     text-align: center;
-    margin-top: 60px;
+
   }
   .next-section-para{
     font-size: 30px;
     font-weight:bolder;
+
+    padding-top:30px;
   }
   .child1 h3{
     color:grey;
@@ -105,11 +109,21 @@ body{
     padding: 10px 30px;
     color: grey;
    }
+
+   .second-section{
+    background-color: rgb(209, 201, 201);
+
+   width: 1380px;
+   ;
+   }
    .parent-child2-para h3{
         color: grey;
     }
     .text{
         color: grey;
+    }
+    .text p{
+        color: #000;
     }
     .parent-div3{
         display: flex;
